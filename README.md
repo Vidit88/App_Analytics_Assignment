@@ -14,3 +14,21 @@ Sends a POST request with the latitude and longitude to http://3.255.195.197/api
 Display Results:
 
 Prints the display_name and city from the API response.
+
+
+📦 Installation
+Clone the repository or download the Python file:
+
+-git clone https://github.com/Vidit88/App_Analytics_Assignment/tree/main
+-cd [To the folder]
+
+Install the required dependencies:
+
+-pip install requests
+
+
+🏃 How to Run
+
+1. Navigate to the project folder
+2. Run the Python script:
+   -python assign.py
